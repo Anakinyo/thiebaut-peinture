@@ -1,0 +1,65 @@
+.panels-flexible-accueil .panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-accueil .panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-accueil .panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-accueil .panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-accueil-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-accueil-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-accueil {
+  width: auto;
+}
+
+.panels-flexible-region-accueil-center {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-accueil-main-row-inside {
+  padding-right: 0px;
+}
+
