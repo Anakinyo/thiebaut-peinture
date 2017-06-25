@@ -1,10 +1,10 @@
 # French translation of Pathauto (7.x-1.3)
-# Copyright (c) 2015 by the French translation team
+# Copyright (c) 2017 by the French translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Pathauto (7.x-1.3)\n"
-"POT-Creation-Date: 2015-10-10 06:43+0000\n"
+"POT-Creation-Date: 2017-05-25 17:18+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -494,3 +494,5 @@ msgid "Update taxonomy term alias"
 msgstr "Mettre à jour l'alias du terme de taxonomie"
 msgid "Update user alias"
 msgstr "Mettre à jour l'alias de l'utilisateur"
+msgid "Bulk generate"
+msgstr "Générer en masse"
