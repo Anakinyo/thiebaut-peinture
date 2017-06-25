@@ -1,0 +1,21 @@
+name = Business Custom
+description = Theme enfant du theme business
+core = 7.x
+base theme = business
+
+stylesheets[all][] = css/style-thiebaut.css
+
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+regions[homequotes]     = Home Quotes
+regions[home_high1]     = Home Highlight 1
+regions[home_high2]     = Home Highlight 2
+regions[home_high3]     = Home Highlight 3
+regions[content]        = Content
+regions[content_top]    = Content Top
+regions[help]           = Help
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+regions[footer_fourth]  = Fourth Bottom
+regions[footer]         = Footer
